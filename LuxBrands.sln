@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuxBrands", "LuxBrands\LuxBrands.csproj", "{CC37B9BF-48C0-4285-B889-025785C2BFF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuxBrands.Tests", "LuxBrands.Tests\LuxBrands.Tests.csproj", "{67DDC8B6-7100-40BD-A6DC-2154E36BF376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC37B9BF-48C0-4285-B889-025785C2BFF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC37B9BF-48C0-4285-B889-025785C2BFF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC37B9BF-48C0-4285-B889-025785C2BFF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC37B9BF-48C0-4285-B889-025785C2BFF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67DDC8B6-7100-40BD-A6DC-2154E36BF376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DDC8B6-7100-40BD-A6DC-2154E36BF376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DDC8B6-7100-40BD-A6DC-2154E36BF376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DDC8B6-7100-40BD-A6DC-2154E36BF376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
